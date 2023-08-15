@@ -10,4 +10,4 @@ function Links(props) {
     );
 }
 
-export default Links
+export default Links;

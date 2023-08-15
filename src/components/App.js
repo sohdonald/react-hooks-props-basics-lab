@@ -14,11 +14,11 @@ function App() {
       <NavBar />
       <Home>
         <div>
-        
+        <h1>
           <Home color= {user.color} 
           name = {user.name} 
           city = {user.city}/>
-        
+        </h1>
         </div>
         </Home>
       <About bio = {user.bio} links = {user.links}/>
